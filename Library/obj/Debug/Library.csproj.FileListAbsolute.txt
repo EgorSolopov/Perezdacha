@@ -1,0 +1,17 @@
+C:\Users\eleme\Downloads\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\eleme\Downloads\Library\bin\Debug\Library.dll
+C:\Users\eleme\Downloads\Library\bin\Debug\Library.pdb
+C:\Users\eleme\Downloads\Library\obj\Debug\Library.dll
+C:\Users\eleme\Downloads\Library\obj\Debug\Library.pdb
+C:\Users\keklik\Desktop\Task 8\Library\bin\Debug\Library.dll
+C:\Users\keklik\Desktop\Task 8\Library\bin\Debug\Library.pdb
+C:\Users\keklik\Desktop\Task 8\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\keklik\Desktop\Task 8\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\keklik\Desktop\Task 8\Library\obj\Debug\Library.dll
+C:\Users\keklik\Desktop\Task 8\Library\obj\Debug\Library.pdb
+C:\Users\AK200\Desktop\sh\allTasks\Library\bin\Debug\Library.dll
+C:\Users\AK200\Desktop\sh\allTasks\Library\bin\Debug\Library.pdb
+C:\Users\AK200\Desktop\sh\allTasks\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\AK200\Desktop\sh\allTasks\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\AK200\Desktop\sh\allTasks\Library\obj\Debug\Library.dll
+C:\Users\AK200\Desktop\sh\allTasks\Library\obj\Debug\Library.pdb

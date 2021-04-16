@@ -1,0 +1,13 @@
+C:\Users\AK200\Desktop\sh\allTasks\Form\bin\Debug\task8_11.exe.config
+C:\Users\AK200\Desktop\sh\allTasks\Form\bin\Debug\task8_11.exe
+C:\Users\AK200\Desktop\sh\allTasks\Form\bin\Debug\task8_11.pdb
+C:\Users\AK200\Desktop\sh\allTasks\Form\bin\Debug\Library.dll
+C:\Users\AK200\Desktop\sh\allTasks\Form\bin\Debug\Library.pdb
+C:\Users\AK200\Desktop\sh\allTasks\Form\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\AK200\Desktop\sh\allTasks\Form\obj\Debug\task8_26.MainForm.resources
+C:\Users\AK200\Desktop\sh\allTasks\Form\obj\Debug\task8_11.Properties.Resources.resources
+C:\Users\AK200\Desktop\sh\allTasks\Form\obj\Debug\Form.csproj.GenerateResource.cache
+C:\Users\AK200\Desktop\sh\allTasks\Form\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\AK200\Desktop\sh\allTasks\Form\obj\Debug\Form.csproj.CopyComplete
+C:\Users\AK200\Desktop\sh\allTasks\Form\obj\Debug\task8_11.exe
+C:\Users\AK200\Desktop\sh\allTasks\Form\obj\Debug\task8_11.pdb

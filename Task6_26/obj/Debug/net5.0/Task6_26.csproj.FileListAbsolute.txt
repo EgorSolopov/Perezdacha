@@ -1,0 +1,48 @@
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\bin\Debug\net5.0\Task6_26.exe
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\bin\Debug\net5.0\Task6_26.deps.json
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\bin\Debug\net5.0\Task6_26.runtimeconfig.json
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\bin\Debug\net5.0\Task6_26.runtimeconfig.dev.json
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\bin\Debug\net5.0\Task6_26.dll
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\bin\Debug\net5.0\ref\Task6_26.dll
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\bin\Debug\net5.0\Task6_26.pdb
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\obj\Debug\net5.0\Task6_26.csprojAssemblyReference.cache
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\obj\Debug\net5.0\Task6_26.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\obj\Debug\net5.0\Task6_26.AssemblyInfoInputs.cache
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\obj\Debug\net5.0\Task6_26.AssemblyInfo.cs
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\obj\Debug\net5.0\Task6_26.csproj.CoreCompileInputs.cache
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\obj\Debug\net5.0\Task6_26.dll
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\obj\Debug\net5.0\ref\Task6_26.dll
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\obj\Debug\net5.0\Task6_26.pdb
+F:\Projects\CiSharpProjects\Task6_26\Task6_26\obj\Debug\net5.0\Task6_26.genruntimeconfig.cache
+C:\Users\keklik\Desktop\Task 6\Task6_26\bin\Debug\net5.0\Task6_26.exe
+C:\Users\keklik\Desktop\Task 6\Task6_26\bin\Debug\net5.0\Task6_26.deps.json
+C:\Users\keklik\Desktop\Task 6\Task6_26\bin\Debug\net5.0\Task6_26.runtimeconfig.json
+C:\Users\keklik\Desktop\Task 6\Task6_26\bin\Debug\net5.0\Task6_26.runtimeconfig.dev.json
+C:\Users\keklik\Desktop\Task 6\Task6_26\bin\Debug\net5.0\Task6_26.dll
+C:\Users\keklik\Desktop\Task 6\Task6_26\bin\Debug\net5.0\ref\Task6_26.dll
+C:\Users\keklik\Desktop\Task 6\Task6_26\bin\Debug\net5.0\Task6_26.pdb
+C:\Users\keklik\Desktop\Task 6\Task6_26\obj\Debug\net5.0\Task6_26.csprojAssemblyReference.cache
+C:\Users\keklik\Desktop\Task 6\Task6_26\obj\Debug\net5.0\Task6_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keklik\Desktop\Task 6\Task6_26\obj\Debug\net5.0\Task6_26.AssemblyInfoInputs.cache
+C:\Users\keklik\Desktop\Task 6\Task6_26\obj\Debug\net5.0\Task6_26.AssemblyInfo.cs
+C:\Users\keklik\Desktop\Task 6\Task6_26\obj\Debug\net5.0\Task6_26.csproj.CoreCompileInputs.cache
+C:\Users\keklik\Desktop\Task 6\Task6_26\obj\Debug\net5.0\Task6_26.dll
+C:\Users\keklik\Desktop\Task 6\Task6_26\obj\Debug\net5.0\ref\Task6_26.dll
+C:\Users\keklik\Desktop\Task 6\Task6_26\obj\Debug\net5.0\Task6_26.pdb
+C:\Users\keklik\Desktop\Task 6\Task6_26\obj\Debug\net5.0\Task6_26.genruntimeconfig.cache
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\bin\Debug\net5.0\Task6_26.exe
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\bin\Debug\net5.0\Task6_26.deps.json
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\bin\Debug\net5.0\Task6_26.runtimeconfig.json
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\bin\Debug\net5.0\Task6_26.runtimeconfig.dev.json
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\bin\Debug\net5.0\Task6_26.dll
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\bin\Debug\net5.0\ref\Task6_26.dll
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\bin\Debug\net5.0\Task6_26.pdb
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\obj\Debug\net5.0\Task6_26.csprojAssemblyReference.cache
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\obj\Debug\net5.0\Task6_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\obj\Debug\net5.0\Task6_26.AssemblyInfoInputs.cache
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\obj\Debug\net5.0\Task6_26.AssemblyInfo.cs
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\obj\Debug\net5.0\Task6_26.csproj.CoreCompileInputs.cache
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\obj\Debug\net5.0\Task6_26.dll
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\obj\Debug\net5.0\ref\Task6_26.dll
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\obj\Debug\net5.0\Task6_26.pdb
+C:\Users\AK200\Desktop\sh\allTasks\Task6_26\obj\Debug\net5.0\Task6_26.genruntimeconfig.cache

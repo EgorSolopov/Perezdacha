@@ -1,0 +1,7 @@
+C:\Users\keklik\source\repos\Task1_26\Task1_26\bin\Release\Task1_26.exe.config
+C:\Users\keklik\source\repos\Task1_26\Task1_26\bin\Release\Task1_26.exe
+C:\Users\keklik\source\repos\Task1_26\Task1_26\bin\Release\Task1_26.pdb
+C:\Users\keklik\source\repos\Task1_26\Task1_26\obj\Release\Task1_26.csproj.CoreCompileInputs.cache
+C:\Users\keklik\source\repos\Task1_26\Task1_26\obj\Release\Task1_26.exe
+C:\Users\keklik\source\repos\Task1_26\Task1_26\obj\Release\Task1_26.pdb
+C:\Users\keklik\source\repos\Task1_26\Task1_26\obj\Release\Task1_26.csprojAssemblyReference.cache

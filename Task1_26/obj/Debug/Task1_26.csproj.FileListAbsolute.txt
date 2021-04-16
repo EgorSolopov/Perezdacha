@@ -1,0 +1,14 @@
+C:\Users\keklik\source\repos\Task1_26\Task1_26\bin\Debug\Task1_26.exe.config
+C:\Users\keklik\source\repos\Task1_26\Task1_26\bin\Debug\Task1_26.exe
+C:\Users\keklik\source\repos\Task1_26\Task1_26\bin\Debug\Task1_26.pdb
+C:\Users\keklik\source\repos\Task1_26\Task1_26\obj\Debug\Task1_26.csprojAssemblyReference.cache
+C:\Users\keklik\source\repos\Task1_26\Task1_26\obj\Debug\Task1_26.csproj.CoreCompileInputs.cache
+C:\Users\keklik\source\repos\Task1_26\Task1_26\obj\Debug\Task1_26.exe
+C:\Users\keklik\source\repos\Task1_26\Task1_26\obj\Debug\Task1_26.pdb
+C:\Users\AK200\Desktop\sh\allTasks\Task1_26\bin\Debug\Task1_26.exe.config
+C:\Users\AK200\Desktop\sh\allTasks\Task1_26\bin\Debug\Task1_26.exe
+C:\Users\AK200\Desktop\sh\allTasks\Task1_26\bin\Debug\Task1_26.pdb
+C:\Users\AK200\Desktop\sh\allTasks\Task1_26\obj\Debug\Task1_26.csprojAssemblyReference.cache
+C:\Users\AK200\Desktop\sh\allTasks\Task1_26\obj\Debug\Task1_26.csproj.CoreCompileInputs.cache
+C:\Users\AK200\Desktop\sh\allTasks\Task1_26\obj\Debug\Task1_26.exe
+C:\Users\AK200\Desktop\sh\allTasks\Task1_26\obj\Debug\Task1_26.pdb
